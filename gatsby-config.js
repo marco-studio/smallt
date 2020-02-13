@@ -1,29 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Over The Bridge`,
-    description: `Hey, meet Bilal, Kwaku, Patrick &amp; Tom. 4 Black &amp; Mixed-Race guys who became friends whilst studying at Cambridge University. Join us as we talk about life before, during and well - after 'The Bridge'. Expect chats about life, and our own experiences.
-    email: otbpodcastuk@gmail.com
-    Twitter: @otbpodcastuk
-    Cast: 
-    Kwaku: @KwakuDapaah_
-    Patrick: @CariocoLondrino
-    Bilal: @Tweetsbybilal
-    Tom: @TomTheEconomist`,
+    title: `Small Talk! With Alec Cuenca - Motivation, Inspiration, Pinoy Podcast`,
+    description: `#SmallTalk is a segment where I share my thoughts and wisdom with regard to self-improvement. This segment tries to tackle different topics such as relationships, family, love, business, sports, mental health, etc.`,
     author: `Kwaku, Patrick, Bilal & Tom`,
-    twitter: `https://twitter.com/otbpodcastuk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor`,
-    instagram: `https://www.instagram.com/otbpodcastuk/`,
+    twitter: `https://twitter.com/ginoongalec`,
+    instagram: `https://www.instagram.com/smalltalkpodcasts/?hl=en`,
     facebook: ``,
     youtube: ``,
-    apple: `https://podcasts.apple.com/podcast/id1364395842?ct=podlink&mt=2`,
+    apple: `https://podcasts.apple.com/us/podcast/small-talk-alec-cuenca-motivation-inspiration-pinoy/id1460155116?mt=2&app=podcast`,
     stitcher: ``,
-    google: `https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDA3NTYwNzY0L3NvdW5kcy5yc3M=`,
-    pocket: `https://pca.st/itunes/1364395842`,
-    spotify: `https://open.spotify.com/show/0Lo2a3hwV0nxymHUj2lNIk`,
-    overcast: `https://overcast.fm/itunes1364395842`,
-    castbox: `https://soundcloud.com/overthebridgeuk`,
-    castro: `https://castro.fm/itunes/1364395842`,
-    podbean: `https://www.podbean.com/podcast-detail/g9v5c-68ac3/Over-The-Bridge-Podcast`,
-    beaker: `https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A407560764%2Fsounds.rss`
+    google: `https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9hODg3ZDkwL3BvZGNhc3QvcnNz`,
+    pocket: `https://pca.st/z543`,
+    spotify: `https://open.spotify.com/show/6MWunfa6H0AvLew8vu6SN0?si=5hjEgmOhT66GveGh-W7L_A`,
+    overcast: `https://overcast.fm/itunes1460155116/small-talk-with-alec-cuenca-motivation-inspiration-pinoy-podcast`,
+    castbox: `https://castbox.fm/channel/Small-Talk!-With-Alec-Cuenca---Motivation%2C-Inspiration%2C-Pinoy-Podcast-id2100401?utm_source=website&utm_medium=dlink&utm_campaign=ex_share_ch&utm_content=Small%20Talk!%20With%20Alec%20Cuenca%20-%20Motivation%2C%20Inspiration%2C%20Pinoy%20Podcast-CastBox_FM`,
+    castro: `https://castro.fm/itunes/1460155116`,
+    podbean: `https://www.podbean.com/podcast-detail/gqnr3-9233a/Small-Talk%21-With-Alec-Cuenca---Motivation-Inspiration-Pinoy-Podcast`,
+    beaker: `https://www.breaker.audio/shows?feed_url=https%3A%2F%2Fanchor.fm%2Fs%2Fa887d90%2Fpodcast%2Frss`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -59,7 +52,7 @@ module.exports = {
         // url: `https://www.gatsbyjs.org/blog/rss.xml`,
         // url: `https://boysinthecave.com/feed/podcast/`,
         // url: `http://boysinthecave.libsyn.com/rss`,
-        url: `http://feeds.soundcloud.com/users/soundcloud:users:407560764/sounds.rss`,
+        url: `https://anchor.fm/s/a887d90/podcast/rss`,
         name: `GatsbyBlog`,
         // Optional
         // Read parser document: https://github.com/bobby-brennan/rss-parser#readme
